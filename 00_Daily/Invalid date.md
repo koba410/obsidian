@@ -1,11 +1,10 @@
 ---
-date:
-  "{ date:YYYY-MM-DD }":
+date: 2026-02-18
 tags:
   - type/daily
 ---
 
-# {{date:YYYY-MM-DD}} ({{date:MM/DD ddd}})
+# 2026-02-18 (02/18 水)
 
 ## 🎯 今日の最重要タスク（MIT）
 > 今日これだけは完了させる、最大3つのタスク

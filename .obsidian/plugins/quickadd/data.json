@@ -11,10 +11,8 @@
         "format": "memo"
       },
       "folder": {
-        "enabled": true,
-        "folders": [
-          "04_memo"
-        ],
+        "enabled": false,
+        "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false

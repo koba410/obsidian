@@ -1,6 +1,5 @@
 ---
-date:
-  "{ date:YYYY-MM-DD }":
+date: 2026-02-18
 tags:
   - type/memo
   - tool/ClaudeCode
